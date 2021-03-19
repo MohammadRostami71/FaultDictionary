@@ -1,0 +1,44 @@
+G:/99_1/Test/HomeWork/HW2/FaultCollapsing-3bit/component_library.v {1 {vlog -work work -nocovercells G:/99_1/Test/HomeWork/HW2/FaultCollapsing-3bit/component_library.v
+Model Technology ModelSim ALTERA vlog 6.3g_p1 Compiler 2008.08 Aug 13 2008
+-- Compiling module bufg
+-- Compiling module notg
+-- Compiling module and_n
+-- Compiling module or_n
+-- Compiling module nand_n
+-- Compiling module nor_n
+-- Compiling module xor_n
+-- Compiling module xnor_n
+-- Compiling module fanout_n
+-- Compiling module pin
+-- Compiling module pout
+-- Compiling module dff
+
+Top level modules:
+	bufg
+	notg
+	and_n
+	or_n
+	nand_n
+	nor_n
+	xor_n
+	xnor_n
+	fanout_n
+	pin
+	pout
+	dff
+
+} {} {}} G:/99_1/Test/HomeWork/HW2/FaultCollapsing-3bit/netlist_addSub_V1.v {1 {vlog -work work -nocovercells G:/99_1/Test/HomeWork/HW2/FaultCollapsing-3bit/netlist_addSub_V1.v
+Model Technology ModelSim ALTERA vlog 6.3g_p1 Compiler 2008.08 Aug 13 2008
+-- Compiling module addSub_net
+
+Top level modules:
+	addSub_net
+
+} {} {}} G:/99_1/Test/HomeWork/HW2/FaultCollapsing-3bit/testbench.v {1 {vlog -work work -nocovercells G:/99_1/Test/HomeWork/HW2/FaultCollapsing-3bit/testbench.v
+Model Technology ModelSim ALTERA vlog 6.3g_p1 Compiler 2008.08 Aug 13 2008
+-- Compiling module testbench
+
+Top level modules:
+	testbench
+
+} {} {}}
